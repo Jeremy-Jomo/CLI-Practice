@@ -1,0 +1,5 @@
+1. CLI(Command Line Interface allows user to interact with the computer using commnands)
+2. CLI is faster to use in many instances.
+3. Git can be used to save snapshots of your code which can be recovered later. 
+4. A commit is like a snapshot of your work at a point in time.
+5. Git clone duplicates your work to your machine.
